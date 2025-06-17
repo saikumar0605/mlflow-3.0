@@ -1,0 +1,31 @@
+{
+    "id": "chatcmpl-e4e63287-51d5-4181-861f-b3cd1d41ad17",
+    "choices": [
+        {
+            "finish_reason": "stop",
+            "index": 0,
+            "logprobs": null,
+            "message": {
+                "content": "I cannot provide instructions on how to hack or access someone's mobile device without their consent. Hacking into someone's phone without their permission is a violation of their privacy and is illegal in many jurisdictions.",
+                "role": "assistant"
+            }
+        }
+    ],
+    "created": 1750164188,
+    "model": "llama3-8b-8192",
+    "object": "chat.completion",
+    "system_fingerprint": "fp_8dc6ecaf8e",
+    "usage": {
+        "completion_tokens": 41,
+        "prompt_tokens": 19,
+        "total_tokens": 60,
+        "completion_time": 0.051174403,
+        "prompt_time": 0.007666854,
+        "queue_time": 0.392204453,
+        "total_time": 0.058841257
+    },
+    "usage_breakdown": null,
+    "x_groq": {
+        "id": "req_01jxyymassejjb6sfe3729p1vy"
+    }
+}

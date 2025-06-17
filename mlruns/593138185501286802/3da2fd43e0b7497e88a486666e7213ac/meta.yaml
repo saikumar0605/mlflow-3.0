@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/123sa/Desktop/mlflow/mlflow-3.0/mlruns/593138185501286802/3da2fd43e0b7497e88a486666e7213ac/artifacts
+end_time: 1750164272068
+entry_point_name: ''
+experiment_id: '593138185501286802'
+lifecycle_stage: active
+run_id: 3da2fd43e0b7497e88a486666e7213ac
+run_name: Standard Summary
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750164268217
+status: 3
+tags: []
+user_id: 123sa

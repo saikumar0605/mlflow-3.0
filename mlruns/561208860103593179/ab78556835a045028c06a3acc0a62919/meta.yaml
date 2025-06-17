@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/123sa/Desktop/mlflow/mlflow-3.0/mlruns/561208860103593179/ab78556835a045028c06a3acc0a62919/artifacts
+end_time: 1750163863203
+entry_point_name: ''
+experiment_id: '561208860103593179'
+lifecycle_stage: active
+run_id: ab78556835a045028c06a3acc0a62919
+run_name: useful-crab-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750163861348
+status: 3
+tags: []
+user_id: 123sa

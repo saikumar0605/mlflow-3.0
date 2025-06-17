@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/123sa/Desktop/mlflow/mlflow-3.0/mlruns/561208860103593179/30916f87a8584fed826da85916f1466a/artifacts
+end_time: 1750164188310
+entry_point_name: ''
+experiment_id: '561208860103593179'
+lifecycle_stage: active
+run_id: 30916f87a8584fed826da85916f1466a
+run_name: legendary-midge-569
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750164186247
+status: 3
+tags: []
+user_id: 123sa

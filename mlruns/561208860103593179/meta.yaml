@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/123sa/Desktop/mlflow/mlflow-3.0/mlruns/561208860103593179
+creation_time: 1750163859350
+experiment_id: '561208860103593179'
+last_update_time: 1750163859350
+lifecycle_stage: active
+name: Groq_GenAI_Experiment
