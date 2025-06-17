@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+.txt
+txt
+
+./venv
+.json
 
 # Distribution / packaging
 .Python
